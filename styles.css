@@ -50,6 +50,7 @@ body {
     display: flex;
     flex-shrink: 0;
     min-width: 50%;
+    min-width: 50%; 
     justify-content: center;
     align-items: center;
     background-color: grey;
@@ -165,7 +166,7 @@ footer {
     color: #E5E7EB;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    height: 80px;
 
 }
 
