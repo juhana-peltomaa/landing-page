@@ -14,4 +14,4 @@ E.g. following elements were practiced in this project:
  Note that this project is kept at barebones and e.g. did not consider any mobile optimisation nor images. These might be added later.
 
  ## Demo
- Check out the recipe site [here](https://juhana-peltomaa.github.io/landing-page/).
+ Check out the project [here](https://juhana-peltomaa.github.io/landing-page/).
