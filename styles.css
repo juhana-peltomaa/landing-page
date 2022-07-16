@@ -30,6 +30,7 @@ body {
 
 /* Hero section */
 
+
 .hero-container {
     display: flex;
     justify-content: center;
@@ -50,10 +51,8 @@ body {
 }
 
 .hero-image {
-    display: flex;
     flex-shrink: 0;
-    min-width: 50%;
-    min-width: 50%; 
+    width: 250px;
     justify-content: center;
     align-items: center;
     background-color: grey;
@@ -82,7 +81,7 @@ button {
 
 .card-container {
     display: flex;
-    gap: 52px;
+    gap: 32px;
     justify-content: center;
     padding: 0px 48px 48px;
 }
@@ -90,14 +89,12 @@ button {
 .card-item {
     display: flex;
     flex-direction: column;
-    align-items: center;
 }
 
 .card-box {
     border: solid 3px blue;
     border-radius: 8px;
-    width: 100%;
-    height: 110px;
+    height: 100px;
     flex: auto;
 }
 
